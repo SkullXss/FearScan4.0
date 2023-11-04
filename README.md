@@ -4,7 +4,7 @@ Este é um script Python para verificação e análise de alvos, incluindo verif
 
 ## Autor
 
-- Autor: [Skull'Xss']
+- Autor: [Skull'Xss](https://www.github.com/SkullXss/)
 - Versão: 4.0
 
 ## Uso
